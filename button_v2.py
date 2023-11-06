@@ -8,6 +8,8 @@ button = Button(16)
 camera_config = picam2.create_preview_configuration(main={"size": (4056, 3040)}, lores={"size": (480, 360)}, display="lores", buffer_count=5)
 picam2.configure(camera_config)
 
+# test edit
+
 def capture():
     with open("picture_count.txt", "r") as file:
         number = int(file.read())
