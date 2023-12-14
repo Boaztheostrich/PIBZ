@@ -23,6 +23,7 @@ Parts:
 - [Micro SD Card](https://a.co/d/f5Ktquo)
 - [Power supply](https://a.co/d/2Je7PZN)
 - [USB-C Cable](https://pine64.com/product/usb-type-c-to-usb-type-c-silicone-power-charging-cable-1-5-meter-length/)
+- [Screws](https://a.co/d/3In1VfO)
 - 3D Printed Case Parts
 - Soldering Iron
 <br>
