@@ -19,6 +19,7 @@ Parts:
 - [Wires (these are good for connecting to the GPIO pins)](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_3?crid=S0IG4EXRKK1Y&keywords=wires%2Barduino&qid=1699682090&sprefix=wires%2Barduino%2Caps%2C126&sr=8-3&th=1)
 - [More Wire (easier to solder to the shutter button)](https://www.amazon.com/gp/product/B0815ZDD5H/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 - [Push Buttons](https://www.amazon.com/OCR-180PcsTactile-Momentary-Switches-Assortment/dp/B01MRP025V/ref=sr_1_3?keywords=180%2Btactile%2Bpush%2Bbuttons&qid=1699682181&sr=8-3&th=1)
+- [Keyboard Switch (Blue)](https://a.co/d/dBKNxpj)
 - SD Card
 - Power supply
 - 3D Printed Case Parts
