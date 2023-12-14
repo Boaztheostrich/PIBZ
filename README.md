@@ -13,15 +13,16 @@ This is still a work in progress but I hope that it is a good starting off point
 
 Parts:
 - [4 Inch Touch Screen](https://www.amazon.com/gp/product/B07XBVF1C9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-- Pi 4 8gb
+- [Pi 4 8gb](https://www.pishop.us/product/raspberry-pi-4-model-b-8gb/?src=raspberrypi)
 - [Pi HQ Camera Module](https://www.adafruit.com/product/4561) (Out of stock on Adafruit)
 - [6mm Lens](https://www.adafruit.com/product/4563)
 - [Wires (these are good for connecting to the GPIO pins)](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_3?crid=S0IG4EXRKK1Y&keywords=wires%2Barduino&qid=1699682090&sprefix=wires%2Barduino%2Caps%2C126&sr=8-3&th=1)
 - [More Wire (easier to solder to the shutter button)](https://www.amazon.com/gp/product/B0815ZDD5H/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 - [Push Buttons](https://www.amazon.com/OCR-180PcsTactile-Momentary-Switches-Assortment/dp/B01MRP025V/ref=sr_1_3?keywords=180%2Btactile%2Bpush%2Bbuttons&qid=1699682181&sr=8-3&th=1)
 - [Keyboard Switch (Blue)](https://a.co/d/dBKNxpj)
-- SD Card
-- Power supply
+- [Micro SD Card](https://a.co/d/f5Ktquo)
+- [Power supply](https://a.co/d/2Je7PZN)
+- [USB-C Cable](https://pine64.com/product/usb-type-c-to-usb-type-c-silicone-power-charging-cable-1-5-meter-length/)
 - 3D Printed Case Parts
 - Soldering Iron
 <br>
