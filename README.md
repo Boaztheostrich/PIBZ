@@ -1,6 +1,10 @@
 # PIBZ
 Raspberry Pi based Photography Camera
 
+[<img src="https://img.youtube.com/vi/L3uyARX1pU0/hqdefault.jpg"/>](https://www.youtube.com/embed/L3uyARX1pU0)
+
+I made a full build guide which is linked above.
+
 Inspired by the CinePi and previous attempts to make a Raspberry Pi based camera on YouTube I made The PiBZ V0.
 
 This is still a work in progress but I hope that it is a good starting off point for others.
