@@ -13,6 +13,8 @@ This is still a work in progress but I hope that it is a good starting off point
 
 [Link to Software Tutorial](https://github.com/Boaztheostrich/PIBZ/wiki/Software)
 
+[Link to STL Files for printing](https://github.com/Boaztheostrich/PIBZ/tree/main/STL%20Files)
+
 <br>
 
 Parts:
